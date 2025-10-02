@@ -39,6 +39,7 @@
 <img src="https://img.shields.io/badge/Embedded Systems-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/Control Systems-purple?style=for-the-badge">
 <img src="https://img.shields.io/badge/MatLab-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/IoT-red?style=for-the-badge">
 <br></br>
 
 <h2> <p><img src="https://github.com/nouseus/nouseus/blob/main/images/chart.gif" width="40" height="40">   My Github Stats   <img src="https://github.com/nouseus/nouseus/blob/main/images/chart.gif" width="40" height="40"></p></h2><br>
