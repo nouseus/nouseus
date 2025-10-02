@@ -18,7 +18,6 @@
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">   
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -38,6 +37,8 @@
 <br></br>
 <img src="https://img.shields.io/badge/STM32-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Embedded Systems-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Control Systems-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/MatLab-orange?style=for-the-badge">
 <br></br>
 
 <h2> <p><img src="https://github.com/nouseus/nouseus/blob/main/images/chart.gif" width="40" height="40">   My Github Stats   <img src="https://github.com/nouseus/nouseus/blob/main/images/chart.gif" width="40" height="40"></p></h2><br>
