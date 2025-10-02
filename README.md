@@ -3,7 +3,7 @@
  
  <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile,+user!;This+page+is+mostly+about:+Embedded+systems+and+electronics.;Calm+down,+it+is+all+automated.;Just,+scroll+down+for+more!;And+don't+forget+to+follow+me+for+future.+Thanks!&center=true&vCenter=true&duration=2400&size=45&width=2000&heigh=60&ont=Fira+Code+Bold"></h1>
  
- <p>Hi again! I'm an Electrical and Electronics Engineering student at Ege University now and. I'm a passionate learner and love taking part in projects about especially embedded systems. Follow me for more!</p>
+ <p>Hi again! I'm an Electrical and Electronics Engineering student at Ege University now and. I'm a passionate learner and love taking part in projects about especially control systems. Follow me for more!</p>
 
 <h2><img src="https://github.com/nouseus/nouseus/blob/main/images/social.gif" width="40" height="35">Socials<img class="image" src="https://github.com/nouseus/nouseus/blob/main/images/social.gif" width="40" height="35"></h2>
 
